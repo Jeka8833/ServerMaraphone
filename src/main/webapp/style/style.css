@@ -1,0 +1,10 @@
+.form-style{
+    max-width: 370px;
+    margin-bottom: 2rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

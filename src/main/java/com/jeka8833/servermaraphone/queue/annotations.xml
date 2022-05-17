@@ -1,0 +1,59 @@
+<root>
+    <item name='com.jeka8833.servermaraphone.queue.Manager Manager(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Manager com.jeka8833.servermaraphone.queue.Request getTackedRequest()'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Manager java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Manager name'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Manager request'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.QueryManager boolean addRequest(java.lang.String, com.jeka8833.servermaraphone.queue.Regions, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.QueryManager boolean addRequest(java.lang.String, com.jeka8833.servermaraphone.queue.Regions, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.QueryManager boolean addRequest(java.lang.String, com.jeka8833.servermaraphone.queue.Regions, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request Request(long, java.lang.String, com.jeka8833.servermaraphone.queue.Regions, java.lang.String, com.jeka8833.servermaraphone.queue.ProcessStatus) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request Request(long, java.lang.String, com.jeka8833.servermaraphone.queue.Regions, java.lang.String, com.jeka8833.servermaraphone.queue.ProcessStatus) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request Request(long, java.lang.String, com.jeka8833.servermaraphone.queue.Regions, java.lang.String, com.jeka8833.servermaraphone.queue.ProcessStatus) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request Request(long, java.lang.String, com.jeka8833.servermaraphone.queue.Regions, java.lang.String, com.jeka8833.servermaraphone.queue.ProcessStatus) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request com.jeka8833.servermaraphone.queue.ProcessStatus getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request managerName'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request phoneNumber'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request pvo'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request region'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request status'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jeka8833.servermaraphone.queue.Request void setStatus(com.jeka8833.servermaraphone.queue.ProcessStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
